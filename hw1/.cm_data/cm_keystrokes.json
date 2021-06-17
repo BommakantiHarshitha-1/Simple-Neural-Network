@@ -1,0 +1,67 @@
+{
+    "hw1.py": [
+        {
+            "operation": "DELETE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Fri May 21 2021 11:44:29",
+            "keyStrokeInfo": "",
+            "position": "71,12"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri May 21 2021 11:44:32",
+            "keyStrokeInfo": "",
+            "position": "70,30"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri May 21 2021 11:44:33",
+            "keyStrokeInfo": "N",
+            "position": "70,30"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri May 21 2021 11:44:33",
+            "keyStrokeInfo": "o",
+            "position": "70,31"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri May 21 2021 11:44:34",
+            "keyStrokeInfo": "n",
+            "position": "70,32"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri May 21 2021 11:44:34",
+            "keyStrokeInfo": "e",
+            "position": "70,33"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri May 21 2021 11:44:35",
+            "keyStrokeInfo": "None",
+            "position": "70,30"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 5,
+            "keyStrokeTimeStamp": "Fri May 21 2021 12:56:26",
+            "keyStrokeInfo": "",
+            "position": "147,9"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 3,
+            "keyStrokeTimeStamp": "Fri May 21 2021 12:56:36",
+            "keyStrokeInfo": "",
+            "position": "125,5"
+        }
+    ]
+}
